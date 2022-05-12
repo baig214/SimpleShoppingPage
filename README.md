@@ -1,2 +1,2 @@
 # SimpleShoppingPage
-Shopping Page using Asp.Net
+Shopping Page using Asp.Net and c#
